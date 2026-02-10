@@ -26,18 +26,7 @@ A highly optimized game engine project focusing on core systems, physics integra
   - **`Character/`**: Character controller, animation states, and input handling.
   - **`GameThreads/`**: Logic for multi-threaded game loop execution.
 
-## 🛠️ Build Instructions
 
-*(Add instructions here on how to build the project, e.g., using CMake or Visual Studio)*
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/DHRUV5262/Prime-Engine-Optimization.git
-   ```
-2. Open the solution in your IDE.
-3. Build for **Release** configuration for maximum performance.
-
-## 🤝 Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request for any optimizations or feature additions.
 
